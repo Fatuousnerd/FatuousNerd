@@ -1,0 +1,142 @@
+// import { MeshDistortMaterial, OrbitControls, Stage, Sphere } from "@react-three/drei";
+// import { Canvas } from "@react-three/fiber";
+// import styled from "styled-components";
+
+// const WebDesign = () => {
+//   return (
+//     <>
+//       <div className="wrapper">
+
+//         <div className="left">
+
+//           {/* <Canvas>
+//             <Stage environment="city" intensity={0.6}></Stage>
+//             <OrbitControls enableZoom={false} />
+//             <ambientLight intensity={1} />
+//             <directionalLight position={[3, 2, 1]} />
+//             <Sphere args={[1, 100, 200]} scale={1}>
+//               <MeshDistortMaterial color="#220736" attach="material" distort={0.5} speed={2} />
+//             </Sphere>
+//           </Canvas> */}
+//         </div>
+
+//         <div className="right">
+//           <div className="desc">
+//             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed laborum quia distinctio, odit accusantium doloremque aperiam aliquid dicta nihil facilis perferendis, quasi quibusdam. Ea inventore eos voluptates reiciendis et aut!
+//           </div>
+//         </div>
+//       </div>
+//     </>
+//   )
+// }
+
+// export default WebDesign
+
+// .wrapper {
+//     background: red;
+
+//     .desc {
+//         width: 1440px;
+//         height: 70px;
+//         padding: 20px;
+//         background: #fff;
+//         color: #000;
+//         font-size: 14px;
+//         font-weight: 300;
+//         border-radius: 10px;
+//         position: absolute;
+//         top: 85vh;
+//         left: 250px;
+
+//         @include mobile {
+//             top: 0;
+//             bottom: 0;
+//             left: 0;
+//             right: 0;
+//             margin: auto;
+//         }
+//     }
+// }
+
+
+
+<div className="item">
+            <img src="image/img1.jpg" />
+            <div className="content">
+              <div className="author">LUNDEV</div>
+              <div className="title">DESIGN SLIDER</div>
+              <div className="topic">ANIMAL</div>
+              <div className="des">
+                {/* <!-- lorem 50 --> */}
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sequi, rem magnam nesciunt minima placeat, itaque eum neque officiis unde, eaque optio ratione aliquid assumenda facere ab et quasi ducimus aut doloribus non numquam. Explicabo, laboriosam nisi reprehenderit tempora at laborum natus unde. Ut, exercitationem eum aperiam illo illum laudantium?
+              </div>
+              <div className="buttons">
+                <button>SEE MORE</button>
+                <button>SUBSCRIBE</button>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+          const Slider = () => {
+  //step 1: get DOM
+  let nextDom = document.getElementById('next');
+  let prevDom = document.getElementById('prev');
+
+  let carouselDom = document.querySelector('.carousel');
+  let SliderDom = carouselDom.querySelector('.carousel .list');
+  let thumbnailBorderDom = document.querySelector('.carousel .thumbnail');
+  let thumbnailItemsDom = thumbnailBorderDom.querySelectorAll('.item');
+  let timeDom = document.querySelector('.carousel .time');
+
+  thumbnailBorderDom.appendChild(thumbnailItemsDom[0]);
+  let timeRunning = 3000;
+  let timeAutoNext = 7000;
+
+  nextDom.onclick = function () {
+    showSlider('next');
+  }
+
+  prevDom.onclick = function () {
+    showSlider('prev');
+  }
+  let runTimeOut;
+  let runNextAuto = setTimeout(() => {
+    next.click();
+  }, timeAutoNext)
+  function showSlider(type) {
+    let SliderItemsDom = SliderDom.querySelectorAll('.carousel .list .item');
+    let thumbnailItemsDom = document.querySelectorAll('.carousel .thumbnail .item');
+
+    if (type === 'next') {
+      SliderDom.appendChild(SliderItemsDom[0]);
+      thumbnailBorderDom.appendChild(thumbnailItemsDom[0]);
+      carouselDom.classList.add('next');
+    } else {
+      SliderDom.prepend(SliderItemsDom[SliderItemsDom.length - 1]);
+      thumbnailBorderDom.prepend(thumbnailItemsDom[thumbnailItemsDom.length - 1]);
+      carouselDom.classList.add('prev');
+    }
+    clearTimeout(runTimeOut);
+    runTimeOut = setTimeout(() => {
+      carouselDom.classList.remove('next');
+      carouselDom.classList.remove('prev');
+    }, timeRunning);
+
+    clearTimeout(runNextAuto);
+    runNextAuto = setTimeout(() => {
+      next.click();
+    }, timeAutoNext)
+  }
+  console.log("Running");
+
+};

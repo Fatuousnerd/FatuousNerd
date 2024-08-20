@@ -1,0 +1,71 @@
+@import '../../app.scss';
+@import '../../variables.scss';
+
+nav {
+    display: flex;
+    width: 100vw;
+    color: var(--text-color);
+    margin: auto 0;
+    padding: 20px 100px;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 10;
+    text-transform: uppercase;
+    font-stretch: extra-expanded;
+    letter-spacing: .5rem;
+
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        li {
+            display: inline-block;
+            list-style: none;
+            margin: 10px 20px;
+
+            a {
+                text-decoration: none;
+                color: var(--text-color);
+                font-weight: bold;
+                font-size: 1.5rem;
+
+                &:hover {
+                    color: var(--secondary-color);
+                }
+            }
+        }
+    }
+
+    h3 {
+        text-transform: uppercase;
+        font-size: 60px;
+        color: var(--text-color);
+
+        &::after {
+            content: "";
+            height: 2px;
+            width: 0;
+            background: var(--secondary-color);
+            display: block;
+            transition: .7s ease-in-out;
+        }
+
+        &:hover::after {
+            content: "";
+            height: 2px;
+            width: 100%;
+            background: var(--secondary-color);
+            display: block;
+        }
+
+        &:hover {
+            transform: translateY(15%);
+            transition: transform 1s, text-decoration 1s;
+            // color: #555;
+            opacity: .95;
+            cursor: pointer;
+        }
+    }
+}

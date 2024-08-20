@@ -1,0 +1,135 @@
+@import '../../app.scss';
+@import '../../variables.scss';
+
+.contact {
+    height: 100vh;
+    scroll-snap-align: center;
+
+    .wrapper {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 50px;
+
+        .left {
+            flex: 1;
+            height: 100%;
+            font-size: 2rem;
+
+            @include mobile{
+                display: none;
+            }
+        }
+
+        .right {
+            flex: 1;
+            display: flex;
+            align-items: start;
+            justify-content: center;
+
+            @include mobile{
+                justify-content: center;
+            }
+
+            form {
+                display: flex;
+                flex-direction: column;
+                gap: 25px;
+                width: 800px;
+                border: 1px solid var(--text-color);
+                padding: 25px;
+                border-radius: 5px;
+
+                @include mobile{
+                    width: 300px;
+                }
+
+                .title {
+                    font-size: 5rem;
+                    font-weight: 900;
+                    text-transform: uppercase;
+                }
+
+                .hold {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+
+                    input {
+                        border: 1px solid var(--secondary-color);
+                        outline: none;
+                        border-radius: 10px;
+                        padding: 10px;
+                        padding-left: 15px;
+                        font-size: 1.5rem;
+                        // margin-top: 30px;
+                        background: var(--text-color);
+                        color: var(--sectext-color);
+
+                        &:hover {
+                            border: 1px solid var(--text-color);
+                        }
+
+                        &:focus {
+                            outline: none;
+                            border: 1px solid var(--text-color);
+                        }
+                    }
+
+                    textarea {
+                        border: 1px solid var(--secondary-color);
+                        outline: none;
+                        border-radius: 10px;
+                        padding: 20px;
+                        padding-left: 30px;
+                        font-size: 1.5rem;
+                        letter-spacing: .1rem;
+                        // margin-top: 30px;
+                        background: var(--text-color);
+                        color: var(--sectext-color);
+
+                        &:hover {
+                            border: 1px solid var(--text-color);
+                        }
+
+                        &:focus {
+                            outline: none;
+                            border: 1px solid var(--text-color);
+                        }
+                    }
+                }
+
+                button {
+                    border: 1px solid var(--secondary-color);
+                    outline: none;
+                    border-radius: 10px;
+                    padding: 5px;
+                    background: transparent;
+                    color: var(--text-color);
+                    font-size: 2rem;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    width: 60%;
+                    align-self: center;
+
+                    &:hover {
+                        border: 1px solid var(--text-color);
+                    }
+
+                    &:focus {
+                        outline: none;
+                        border: 1px solid var(--text-color);
+                    }
+                }
+
+                small {
+                    color: green;
+                    align-self: center;
+                    font-size: 1rem;
+                }
+            }
+        }
+    }
+}

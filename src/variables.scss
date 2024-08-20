@@ -1,0 +1,37 @@
+// variables.scss
+
+:root {
+    --main-color-light: #D32F2F;
+    --secondary-color-light: #FFCDD2;
+    --text-color-light: #212121;
+    --sectext-color-light: #757575;
+    --background-gradient-light: linear-gradient(160deg, #d32f2f 15%, #ffcdd2 100%);
+    
+    --main-color-dark: #B71C1C;
+    --secondary-color-dark: #F8BBD0;
+    --text-color-dark: #ffffff;
+    --sectext-color-dark: #B0BEC5;
+    --background-gradient-dark: linear-gradient(160deg, #b71c1c 15%, #f8bbd0 100%);
+    
+    // --main-color-dark: #0b1250;
+    // --secondary-color-dark: #1a1a1a;
+    // --text-color-dark: #fff;
+    // --sectext-color-dark: red;
+  }
+  
+  body.light {
+    --main-color: var(--main-color-light);
+    --secondary-color: var(--secondary-color-light);
+    --text-color: var(--text-color-light);
+    --sectext-color: var(--sectext-color-light);
+    --background-gradient: var(--background-gradient-light);
+  }
+  
+  body.dark {
+    --main-color: var(--main-color-dark);
+    --secondary-color: var(--secondary-color-dark);
+    --text-color: var(--text-color-dark);
+    --sectext-color: var(--sectext-color-dark);
+    --background-gradient: var(--background-gradient-dark);
+  }
+  
