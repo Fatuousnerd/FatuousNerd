@@ -1,7 +1,7 @@
 import './works.scss';
 import WebDevelopment from "./items/WebDevelopment/WebDevelopment";
 import DigitalMarketing from './items/DigitalMarketing/DigitalMarketing';
-import Coming from './items/coming/Coming';
+import Coming from './items/coming/Coming.jsx';
 import { useState } from "react";
 import styled from 'styled-components';
 
