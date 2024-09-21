@@ -1,71 +1,52 @@
 @import '../../app.scss';
 @import '../../variables.scss';
 
+.scrolled {
+    background: var(--background);
+}
+
 nav {
-    display: flex;
+    background: var(--background);
     width: 100vw;
-    color: var(--text-color);
-    margin: auto 0;
-    padding: 20px 100px;
-    align-items: center;
+    height: 100px;
+    display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+    padding-right: 0px;
     position: fixed;
     z-index: 10;
-    text-transform: uppercase;
-    font-stretch: extra-expanded;
-    letter-spacing: .5rem;
+    transition: all ease 1s;
+
+
+    img {
+        height: 100px;
+        // box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
 
     ul {
+        // background: goldenrod;
         display: flex;
-        justify-content: center;
         align-items: center;
+        padding: 10px 40px;
+        gap: 40px;
 
         li {
-            display: inline-block;
-            list-style: none;
-            margin: 10px 20px;
+            background: var(--button-color);
+            border-radius: 5px;
+            color: var(--text-color);
+            padding: 5px;
+            box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
 
             a {
-                text-decoration: none;
-                color: var(--text-color);
-                font-weight: bold;
-                font-size: 1.5rem;
-
-                &:hover {
-                    color: var(--secondary-color);
-                }
+                padding: 5px;
+                display: flex;
+                align-items: center;
             }
         }
     }
 
-    h3 {
-        text-transform: uppercase;
-        font-size: 60px;
-        color: var(--text-color);
-
-        &::after {
-            content: "";
-            height: 2px;
-            width: 0;
-            background: var(--secondary-color);
-            display: block;
-            transition: .7s ease-in-out;
-        }
-
-        &:hover::after {
-            content: "";
-            height: 2px;
-            width: 100%;
-            background: var(--secondary-color);
-            display: block;
-        }
-
-        &:hover {
-            transform: translateY(15%);
-            transition: transform 1s, text-decoration 1s;
-            // color: #555;
-            opacity: .95;
-            cursor: pointer;
-        }
+    @include mobile {
+        display: none;
     }
 }

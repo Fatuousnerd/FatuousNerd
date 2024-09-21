@@ -2,132 +2,146 @@
 @import '../../variables.scss';
 
 .contact {
-    height: 100vh;
-    scroll-snap-align: center;
+    background: var(--main-color);
+    width: 100vw;
+    // height: calc(100vh - 100px);
+    position: relative;
+    top: 100px;
 
     .wrapper {
-        width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 50px;
+        padding-top: 20px;
 
-        .left {
-            flex: 1;
-            height: 100%;
+        .top {
+            z-index: 9;
+            position: absolute;
+            left: 5vw;
+            background: var(--secondary-color);
+            opacity: .85;
+            border-radius: 25px;
+            padding: 50px;
+            width: 450px;
+            height: 200px;
             font-size: 2rem;
+            display: flex;
+            text-align: left;
+            align-items: center;
+        }
 
-            @include mobile{
-                display: none;
+        .pic {
+            position: absolute;
+            left: 20vw;
+            top: 10vh;
+
+            img {
+                border-radius: 25px;
+                width: 900px;
+                height: 500px;
+                object-fit: cover;
             }
         }
 
-        .right {
-            flex: 1;
+        .form {
+            position: absolute;
+            left: 40vw;
+            bottom: -7.5vh;
+            background: var(--secondary-color);
             display: flex;
-            align-items: start;
-            justify-content: center;
+            gap: 20px;
+            width: 700px;
+            padding: 40px;
+            border-radius: 15px;
 
-            @include mobile{
-                justify-content: center;
+            .yap {
+                font-size: 1.75rem;
             }
 
-            form {
-                display: flex;
-                flex-direction: column;
-                gap: 25px;
-                width: 800px;
-                border: 1px solid var(--text-color);
-                padding: 25px;
-                border-radius: 5px;
+            .ac-form {
 
-                @include mobile{
-                    width: 300px;
-                }
-
-                .title {
-                    font-size: 5rem;
-                    font-weight: 900;
-                    text-transform: uppercase;
-                }
-
-                .hold {
+                .det {
                     display: flex;
-                    flex-direction: column;
-                    gap: 10px;
+                    gap: 15px;
+                    margin-bottom: 25px;
 
-                    input {
-                        border: 1px solid var(--secondary-color);
-                        outline: none;
-                        border-radius: 10px;
-                        padding: 10px;
-                        padding-left: 15px;
-                        font-size: 1.5rem;
-                        // margin-top: 30px;
-                        background: var(--text-color);
-                        color: var(--sectext-color);
-
-                        &:hover {
-                            border: 1px solid var(--text-color);
-                        }
-
-                        &:focus {
+                    .hl {
+                        input {
+                            border: 1px solid var(--main-color);
+                            padding: 10px;
                             outline: none;
-                            border: 1px solid var(--text-color);
+                            border-radius: 2.5px;
+                            background: var(--secondary-color);
+                            color: var(--text-color);
+
+                            &::placeholder {
+                                color: var(--text-color);
+                            }
                         }
                     }
+                }
 
-                    textarea {
-                        border: 1px solid var(--secondary-color);
-                        outline: none;
-                        border-radius: 10px;
-                        padding: 20px;
-                        padding-left: 30px;
-                        font-size: 1.5rem;
-                        letter-spacing: .1rem;
-                        // margin-top: 30px;
-                        background: var(--text-color);
-                        color: var(--sectext-color);
+                textarea {
+                    border: 1px solid var(--main-color);
+                    padding: 10px;
+                    outline: none;
+                    border-radius: 2.5px;
+                    background: var(--secondary-color);
+                    color: var(--text-color);
+                    width: 100%;
 
-                        &:hover {
-                            border: 1px solid var(--text-color);
-                        }
-
-                        &:focus {
-                            outline: none;
-                            border: 1px solid var(--text-color);
-                        }
+                    &::placeholder {
+                        color: var(--text-color);
                     }
                 }
 
                 button {
-                    border: 1px solid var(--secondary-color);
-                    outline: none;
-                    border-radius: 10px;
-                    padding: 5px;
-                    background: transparent;
-                    color: var(--text-color);
-                    font-size: 2rem;
-                    font-weight: 700;
-                    text-transform: uppercase;
-                    width: 60%;
-                    align-self: center;
+                    background: var(--main-color);
+                    padding: 10px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    text-align: center;
+                }
+            }
+        }
+    }
 
-                    &:hover {
-                        border: 1px solid var(--text-color);
-                    }
+    @include mobile {
+        // background: goldenrod;
+        top: 20px;
 
-                    &:focus {
-                        outline: none;
-                        border: 1px solid var(--text-color);
-                    }
+        .wrapper {
+
+            .top {
+                width: 225px;
+                height: 100px;
+                padding: 25px;
+            }
+
+            .pic {
+                left: 1vw;
+
+                img {
+                    width: 350px;
+                    height: 250px;
+                }
+            }
+
+            .form {
+
+                .yap {
+                    display: none;
                 }
 
-                small {
-                    color: green;
-                    align-self: center;
-                    font-size: 1rem;
+                left: 2vw;
+                bottom: 25vh;
+                width: 340px;
+                padding: 20px;
+                gap: 10px;
+
+                .ac-form {
+
+                    .det {
+                        gap: 5px;
+                    }
                 }
             }
         }

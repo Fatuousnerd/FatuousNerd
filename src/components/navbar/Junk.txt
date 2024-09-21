@@ -24,6 +24,31 @@
     //   </div>
     // </div>
 
+const [navColor, setNavColor] = useState(false);
+
+  useEffect(() => {
+    const changeNavbarColor = () => {
+
+      const hait = window.innerHeight;
+      const wScroll = window.scrollY;
+
+      if (wScroll > screenY) {
+        setNavColor(true);
+      } else {
+        setNavColor(false);
+      }
+      // console.log("Scrolled: " + window.scrollY);
+      // console.log("Not Scrolled");
+      // setNavColor(!navColor);
+      console.log(screenY);
+    };
+
+    window.addEventListener('scroll', changeNavbarColor);
+
+    return () => {
+      window.removeEventListener('scroll', changeNavbarColor);
+    };
+  }, []);
 
 
 

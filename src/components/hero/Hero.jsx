@@ -1,24 +1,32 @@
 import './hero.scss';
+import Carousel from "./carousel/Carousel";
 import Navbar from '../navbar/Navbar';
-import CursorText from './CursorText';
-import HeroSphere from './HeroSphere';
+import Verif from '../verif/Verif';
 
 const Hero = () => {
   return (
     <>
+      <Verif />
       <Navbar />
       <div className="hero">
         <div className="wrapper">
-          <div className="left">
-            <CursorText />
+          <div className="imageHolder">
+            {/* <img src="./wallpaper1.jfif" alt="" /> */}
+            <Carousel />
           </div>
 
-          <div className="right">
-            <HeroSphere />
-            <div className="image">
-              <img src="./walls/11.jfif"/>
-            </div>
+          <div className="holder">
+            <h3>Nutflixx</h3>
+            <h1>
+              Ready for More?
+              Unlock Private Galleries and 
+              Custom Videos by Joining Now!
+            </h1>
+            <a href="/live">
+              <button>Get More</button>
+            </a>
           </div>
+
         </div>
       </div>
     </>

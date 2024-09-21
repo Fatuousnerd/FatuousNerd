@@ -10,13 +10,13 @@ const ScrollUp = () => {
   useEffect(() => {
     const handleScroll = () => {
       const heroHeight = window.innerHeight;
-      console.log("Window Height: " + heroHeight);
+      // console.log("Window Height: " + heroHeight);
       if (window.scrollY >= 0) {
         setShowButton(true);
-        console.log("Scrolled");
+        // console.log("Scrolled");
       } else {
         setShowButton(false);
-        console.log("Not Scrolled");
+        // console.log("Not Scrolled");
       }
     };
 
@@ -26,12 +26,12 @@ const ScrollUp = () => {
     };
   }, []);
   
-  console.log("ShowButton State: " + showButton);
-  console.log("Window ScrollY: "+ window.scrollY);
+  // console.log("ShowButton State: " + showButton);
+  // console.log("Window ScrollY: "+ window.scrollY);
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
-    console.log("Up")
+    // console.log("Up")
   };
 
   return (
