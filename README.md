@@ -1,4 +1,5 @@
-# React + Vite
+# Fatuous Nerd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+لا إله إلا الله مُحَمّد رسل الله
+
 
