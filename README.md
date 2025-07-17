@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-Hey there! I'm a passionate **Full-Stack Developer** and aspiring **Software Engineer** currently focused on building elegant, scalable, and performant **web and mobile applications** using the modern JavaScript ecosystem.
+Hey there! I'm a passionate **Full-Stack Developer** and aspiring **Cybersecurity Expert** currently focused on building elegant, scalable, and performant **web and mobile applications** using the modern JavaScript ecosystem.
 
 I'm an avid learner on a mission to **master React (Web & Native)** and **JavaScript (Node.js)** to their absolute depth. I also occasionally venture into backend engineering, cloud infrastructure, and blockchain development, particularly **Web3 integration**.
 
@@ -21,7 +21,6 @@ Every project I work on is an opportunity to learn, grow, and sharpen my craft.
 - TypeScript
 - HTML5 & CSS3
 - PHP (Basic)
-- Python (Occasionally)
 - SQL / MongoDB Query Language
 
 ### 🧩 Frontend Development
@@ -29,7 +28,7 @@ Every project I work on is an opportunity to learn, grow, and sharpen my craft.
 - React Native (Expo) 📱
 - TailwindCSS / NativeWind
 - Sass / SCSS
-- Shopify (Liquid)
+- Shopify
 - Firebase (Auth + Firestore)
 
 ### ⚙️ Backend & APIs
@@ -44,7 +43,6 @@ Every project I work on is an opportunity to learn, grow, and sharpen my craft.
 - Git & GitHub
 - Netlify / Vercel
 - GoDaddy (DNS & Domain Mgmt)
-- Heroku (Legacy)
 - Postman (API Testing)
 - VS Code
 - Expo CLI
@@ -54,7 +52,7 @@ Every project I work on is an opportunity to learn, grow, and sharpen my craft.
 - MVC Architecture
 - Responsive & Mobile-first Design
 - OAuth (Google / Facebook / Twitter)
-- State Management (useContext, useReducer)
+- State Management
 - Form Validation (Custom + Libraries)
 - Payment Integrations (Coming soon: Crypto-based)
 - File Uploads, Downloads & Firebase Storage
@@ -64,7 +62,7 @@ Every project I work on is an opportunity to learn, grow, and sharpen my craft.
 ## 🎯 Current Goals
 
 - ✅ Master React Native and NativeWind
-- ✅ Build full-stack apps with authentication & dashboard logic
+- ✅ Build complete full-stack apps
 - 🚧 Learn and integrate **crypto payment gateways** in apps
 - 🚀 Deploy & scale production-grade apps using **Cloud Functions & Hosting**
 - 📲 Launch my first public app on Google Play Store
@@ -74,8 +72,6 @@ Every project I work on is an opportunity to learn, grow, and sharpen my craft.
 
 ## 📌 Highlight Projects (Coming Soon on GitHub)
 - **SMM Panel Mobile App** – Fullstack React Native app accepting crypto
-- **KanvasWeb** – A minimal agency landing for digital creators
-- **Omnia Gadzhi** – Iman Gadzhi theme page + digital product store
 - **Storova Templates** – E-commerce site template hub with easy deployment
 
 ---
@@ -88,7 +84,7 @@ I believe in:
 - Clean, understandable, scalable code
 - Islam as a compass in both personal and professional life
 
-> ❝ Start where you are. Use what you have. Do what you can. ❞
+> ❝ Consternation isn't goaded by thew, rather by irrefutabality.❞
 
 ---
 
@@ -96,9 +92,9 @@ I believe in:
 
 I'm open to collaboration, freelance opportunities, or just connecting with fellow devs.
 
-- 💬 Telegram: [Coming Soon]
-- 💼 LinkedIn: [Coming Soon]
-- 📩 Email: [Private for now]
+- 💬 WhatsApp: +254 745 610 061
+- 📱 Instagram: @fatuousnerd
+- 📩 Email: calvinkmwaura@gmail.com
 
 ---
 
