@@ -1,40 +1,26 @@
-import './app.scss';
-import Main from "./components/main/Main";
-import About from './components/about/About';
-import Pages from './components/pages/Pages';
-import Gallery from './components/gallery/Gallery';
-import Merch from './components/merch/Merch';
-import Creators from './components/creators/Creators';
-import Contact from './components/contact/Contact';
-import Faqs from './components/faqs/Faqs';
-import FourOFour from "./components/fourofour/FourOFour";
-import Privacy from "./components/privacy/Privacy";
+import Main from "./components/Main";
 import ThemeProvider from "./utils/ThemeContext";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Live from './components/live/Live';
+import './App.css';
+import Portfolio from "./pages/Portfolio";
+import ScrollToSection from "./utils/ScrollToSection";
+import Contact from "./pages/Contact";
 
-const App = () => {
-  return <>
-    <ThemeProvider>
-      <Router>
-        <div className="main">
+function App() {
+  return (
+    <>
+      <ThemeProvider>
+        <Router>
+          <ScrollToSection />
           <Routes>
-            <Route path='/*' element={<FourOFour />} />
-            <Route path='/' element={<Main />} />
-            <Route path='/about' element={<About />} />
-            <Route path='/pages' element={<Pages />} />
-            <Route path='/gallery' element={<Gallery />} />
-            <Route path='/merch' element={<Merch />} />
-            <Route path='/creators' element={<Creators />} />
-            <Route path='/live' element={<Live />} />
-            <Route path='/contact' element={<Contact />} />
-            <Route path='/faqs' element={<Faqs />} />
-            <Route path='/privacy' element={<Privacy />} />
+            <Route path="/" element={<Main />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
-        </div>
-      </Router>
-    </ThemeProvider>
-  </>
-};
+        </Router>
+      </ThemeProvider>
+    </>
+  )
+}
 
-export default App;
+export default App

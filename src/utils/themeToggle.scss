@@ -1,15 +1,15 @@
-@import '../variables.scss';
+@import '../App.css';
 
 button{
     right: 10vw;
     border: none;
     outline: none;
     background: transparent;
-    color: var(--text-color);
+    color: var(--MainText);
     box-shadow: unset !important;
     cursor: pointer;
 
     &:hover{
-        color: var(--secondary-color);
+        color: var(--HText);
     }
 }
