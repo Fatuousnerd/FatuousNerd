@@ -12,7 +12,7 @@ const Footer = () => {
                     <p className='text-[1rem] leading-[1.5rem] text-[--SecText] mt-2'>
                         Join us today and elevate your online presence. Whether you’re a business owner, creative professional, or just starting out, I'm here to help you stand out from the crowd.
                     </p>
-                    <Link to="/contact" className='p-[10px] rounded-md bg-[--HTextLight] font-bold uppercase outline-none hover:scale-[1.05] duration-500 transition-all mt-4'>
+                    <Link to="/get-started" className='p-[10px] rounded-md bg-[--HTextLight] font-bold uppercase outline-none hover:scale-[1.05] duration-500 transition-all mt-4'>
                         Get Started
                     </Link>
                 </div>

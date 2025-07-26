@@ -5,6 +5,7 @@ import './App.css';
 import Portfolio from "./pages/Portfolio";
 import ScrollToSection from "./utils/ScrollToSection";
 import Contact from "./pages/Contact";
+import Notion from "./pages/Notion";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
             <Route path="/" element={<Main />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/get-started" element={<Notion />} />
           </Routes>
         </Router>
       </ThemeProvider>

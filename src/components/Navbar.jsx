@@ -17,7 +17,7 @@ const Sidebar = () => {
                     <Link to="/#services" className='hover:text-[--HTextLight] '>Services</Link>
                     <Link to="/portfolio" className='hover:text-[--HTextLight] '>Portfolio</Link>
                     <Link to="/contact" className='hover:text-[--HTextLight] '>Contact</Link>
-                    <Link to="/" className='text-center bg-[--HText] p-[5px] rounded-lg '>Start</Link>
+                    <Link to="/get-started" className='text-center bg-[--HText] p-[5px] rounded-lg '>Start</Link>
                     <ThemeToggle />
                 </div>
             }
@@ -36,7 +36,7 @@ const Navbar = () => {
                     <Link to="/#services" className='hover:text-[--HTextLight] '>Services</Link>
                     <Link to="/portfolio" className='hover:text-[--HTextLight] '>Portfolio</Link>
                     <Link to="/contact" className='hover:text-[--HTextLight] '>Contact</Link>
-                    <Link to="/" className='p-[10px] rounded-md bg-[--HTextLight] font-bold uppercase outline-none hover:scale-[1.05] hover:shadow-md hover:shadow-[--HTextLight] duration-500 transition-all '>Get Started</Link>
+                    <Link to="/get-started" className='p-[10px] rounded-md bg-[--HTextLight] font-bold uppercase outline-none hover:scale-[1.05] hover:shadow-md hover:shadow-[--HTextLight] duration-500 transition-all '>Get Started</Link>
                     <ThemeToggle />
                 </div>
             </div>
