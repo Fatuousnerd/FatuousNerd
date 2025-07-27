@@ -11,10 +11,10 @@ const Contact = () => {
                 <div className="flex flex-col flex-1 gap-[30px]">
                     <h1 className='text-[4rem] lg:text-[5rem] font-bold leading-[5rem] '>Contact me</h1>
                     <div className="flex flex-col items-start justify-around bg-[--SecBg] p-[25px] rounded-lg gap-[25px] ">
-                        <Link className="flex items-center justify-center gap-[25px] hover:underline"><Mail/> calvinkmwaura@gmail.com</Link>
-                        <Link className="flex items-center justify-center gap-[25px] hover:underline"><Phone/> +254 745 610 061</Link>
-                        <Link className="flex items-center justify-center gap-[25px] hover:underline"><WhatsApp/> +254 745 610 061</Link>
-                        <Link className="flex items-center justify-center gap-[25px] hover:underline"><Instagram/> fatuousnerd</Link>
+                        <Link to="mailto:calvinkmwaura@gmail.com" className="flex items-center justify-center gap-[25px] hover:underline"><Mail/> calvinkmwaura@gmail.com</Link>
+                        <Link to="tel:+254745610061" className="flex items-center justify-center gap-[25px] hover:underline"><Phone/> +254 745 610 061</Link>
+                        <Link to="https://wa.me/+254745610061" className="flex items-center justify-center gap-[25px] hover:underline"><WhatsApp/> +254 745 610 061</Link>
+                        <Link to="https://www.instagram.com/fatuousnerd" className="flex items-center justify-center gap-[25px] hover:underline"><Instagram/> fatuousnerd</Link>
                         {/* <Link className="flex items-center justify-center gap-[25px] hover:underline"><Mail/> calvinkmwaura@gmail.com</Link> */}
                         {/* <Link className="flex items-center justify-center gap-[25px] hover:underline"><Mail/> calvinkmwaura@gmail.com</Link> */}
                     </div>
