@@ -1,4 +1,4 @@
-import { Code } from '@mui/icons-material'
+import { Code, DesignServicesRounded, BuildRounded } from '@mui/icons-material'
 import { Link } from 'react-router-dom'
 
 const Service = [
@@ -8,12 +8,12 @@ const Service = [
         description: "Custom websites and web applications built with modern technologies, focusing on performance, scalability, and responsive design.",
     },
     {
-        icon: <Code />,
-        title: "UI/UX Design",
+        icon: <DesignServicesRounded />,
+        title: "UI/UX Development",
         description: "User-centered interface and experience design to ensure your digital products or services are intuitive, engaging, and visually appealing.",
     },
     {
-        icon: <Code />,
+        icon: <BuildRounded />,
         title: "Website Maintenance",
         description: "Ongoing support, updates, and optimization to keep your website secure, up-to-date, and running smoothly.",
     },
@@ -24,8 +24,8 @@ const Services = () => {
         <>
             <div id='services' className='min-h-screen w-full relative top-[70px] bg-[--SecBg] flex flex-col items-start justify-around p-[25px] lg:p-[50px] gap-[60px] '>
                 <div className="flex flex-col items-start justify-center gap-[20px] lg:pr-[200px]">
-                    <h1 className='text-[5rem] leading-[5rem] font-bold capitalize'>My <span>Services</span></h1>
-                    <p>
+                    <h1 className='text-[4rem] lg:text-[5rem] leading-[5rem] font-bold capitalize'>My <span>Services</span></h1>
+                    <p className='text-justify lg:text-left '>
                         I offer a range of professional web development services tailored to help you build, launch, and grow your online presence. Whether you need a modern website, a custom web application, or ongoing support and optimization, I provide solutions that combine technical expertise with creative design. My focus is on delivering high-quality, scalable, and user-friendly digital experiences to meet your unique business needs.
                     </p>
                     {/* <Link className='p-[10px] rounded-md bg-transparent font-bold uppercase outline-none border-solid border-[2px] border-[--HText] hover:scale-[1.05] duration-500 transition-all '>Get Quote</Link> */}

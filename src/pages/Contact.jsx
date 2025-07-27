@@ -20,7 +20,7 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className="flex-1 flex w-full">
-                    <form action="" className=' w-full h-full p-[25px] flex flex-col items-start gap-[25px] '>
+                    <form action="https://formsubmit.co/calvinkmwaura@gmail.com" method='POST' className=' w-full h-full p-[25px] flex flex-col items-start gap-[25px] '>
                         <div className="flex flex-col w-full">
                             <label htmlFor="name">Name</label>
                             <input type="text" name="name" placeholder='John Doe' id="" className='p-[5px] bg-transparent border-b-solid border-b-[2px] border-b-[--MainText] outline-none focus:bg-[rgba(255,255,255,.15)] duration-300 transition-all '/>

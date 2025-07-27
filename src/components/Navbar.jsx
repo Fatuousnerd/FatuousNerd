@@ -10,7 +10,7 @@ const Sidebar = () => {
 
     return (
         <>
-            <button className='fixed flex flex-col items-center justify-center lg:hidden z-[99] mt-[10px] ml-[20px] text-[--SecText] bg-[--SecBg] backdrop-blur-3xl p-[15px] rounded-full outline-none border-solid border-[2px] border-[--HText] left-0 ' onClick={() => setOpen((prev) => !prev)}>{!open ? <MenuRounded /> : <CloseRounded />}</button>
+            <button className='fixed flex flex-col items-center justify-center lg:hidden z-[99] w-11/12 mt-[10px] ml-[20px] text-[--SecText] bg-[--SecBg] backdrop-blur-3xl p-[15px] rounded-full outline-none border-solid border-[2px] border-[--HText] left-0 ' onClick={() => setOpen((prev) => !prev)}>{!open ? <MenuRounded /> : <CloseRounded />}</button>
             {open &&
                 <div className='flex flex-col lg:hidden h-screen w-[300px] fixed z-[98] bg-[--SecBg] bg-opacity-75 backdrop-blur-lg p-[50px] pt-[100px] gap-[40px] text-4xl transition-all duration-300 '>
                     <Link to="/" className='hover:text-[--HTextLight] '>Home</Link>

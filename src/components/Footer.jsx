@@ -6,7 +6,7 @@ const Footer = () => {
         <>
             <div className='relative top-[70px] w-full h-[650px] lg:h-[550px] p-[25px] lg:p-[50px] flex items-center justify-center '>
                 <div className="flex flex-col rounded-lg bg-[--SecBg] w-[95%] h-[95%] p-[25px] lg:pr-[500px] items-start justify-around ">
-                    <h1 className='text-[3.5rem] capitalize font-bold leading-[3.5rem]'>
+                    <h1 className='text-[2.75rem] lg:text-[3.5rem] capitalize font-bold leading-[3.5rem]'>
                         Ready to elevate your design?
                     </h1>
                     <p className='text-[1rem] leading-[1.5rem] text-[--SecText] mt-2'>
