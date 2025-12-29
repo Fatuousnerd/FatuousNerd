@@ -43,10 +43,10 @@ I'm a Junior TS/JS solo‑dev (Next.js, React Native, React) — I design, proto
 ## 📫 Contact
 I included the channels you asked for below — please paste the exact handles/URLs and I’ll replace these placeholders with live links.
 
-- Email: your.email@example.com
-- Twitter: @your_twitter
-- Instagram: @your_instagram
-- Website: https://your-website.example
+- Email: calvinkmwaura@gmail.com
+- Twitter: @nredfatuous
+- Instagram: @fatuousnerd
+- Website: https://fatuous.framer.website
 
 ---
 
@@ -77,5 +77,3 @@ Fun fact: I was diagnosed with AuDHD as a teen/young adult — it comes with fie
 This profile README is available under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — use it, remix it, make it yours.
 
 ---
-
-Thanks for reading — if any of this looks off or you want the tone turned up/down (nerdier, funnier, or more formal), tell me which bits to tweak and I’ll update the file.
