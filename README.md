@@ -1,104 +1,81 @@
-<p align="center"><strong>
-  أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ
-</strong></p>
+# Hi — I'm Fatuous Nerd 👋
 
-<h1 align="center">السلام عليكم ورحمة الله وبركاته 👋</h1>
+> 19 • Kenyan‑Tanzanian • He/Him  
+> Junior TS/JS solo‑dev who ships tiny things that punch above their weight.
 
-## 🧠 About Me
-
-Hey there! I'm a passionate **Full-Stack Developer** and aspiring **Cybersecurity Expert** currently focused on building elegant, scalable, and performant **web and mobile applications** using the modern JavaScript ecosystem.
-
-I'm an avid learner on a mission to **master React (Web & Native)** and **JavaScript (Node.js)** to their absolute depth. I also occasionally venture into backend engineering, cloud infrastructure, and blockchain development, particularly **Web3 integration**.
-
-Every project I work on is an opportunity to learn, grow, and sharpen my craft.
+[![GitHub followers](https://img.shields.io/github/followers/Fatuousnerd?label=Follow&style=social)](https://github.com/Fatuousnerd)
+[![Visitors](https://komarev.com/ghpvc/?username=Fatuousnerd&color=blue)](https://github.com/Fatuousnerd)
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🚀 Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 & CSS3
-- PHP (Basic)
-- SQL / MongoDB Query Language
-
-### 🧩 Frontend Development
-- React.js ⚛️
-- React Native (Expo) 📱
-- TailwindCSS / NativeWind
-- Sass / SCSS
-- Shopify
-- Firebase (Auth + Firestore)
-
-### ⚙️ Backend & APIs
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- RESTful APIs
-- Firebase Functions
-- JWT Auth
-
-### 🧱 Tools, Platforms & DevOps
-- Git & GitHub
-- Netlify / Vercel
-- GoDaddy (DNS & Domain Mgmt)
-- Postman (API Testing)
-- VS Code
-- Expo CLI
-- CLI & Terminal
-
-### 📦 Other Tech & Topics
-- MVC Architecture
-- Responsive & Mobile-first Design
-- OAuth (Google / Facebook / Twitter)
-- State Management
-- Form Validation (Custom + Libraries)
-- Payment Integrations (Coming soon: Crypto-based)
-- File Uploads, Downloads & Firebase Storage
+## 🧭 Short bio
+I build web and mobile stuff with TypeScript because it feels like giving JavaScript a cape. At 19, I blend Kenyan and Tanzanian vibes, a stubborn curiosity, and a hunger for small, well‑crafted projects — all while figuring out how to balance hyperfocus with snacks.
 
 ---
 
-## 🎯 Current Goals
+## 💼 What I do
+I'm a Junior TS/JS solo‑dev (Next.js, React Native, React) — I design, prototype, and ship full‑stack features end‑to‑end. I love practical tooling, simple DX improvements, and apps that save time or headaches.
 
-- ✅ Master React Native and NativeWind
-- ✅ Build complete full-stack apps
-- 🚧 Learn and integrate **crypto payment gateways** in apps
-- 🚀 Deploy & scale production-grade apps using **Cloud Functions & Hosting**
-- 📲 Launch my first public app on Google Play Store
-- 📚 Contribute to open source projects and collaborate more
+- 🔭 Currently building: clean starter kits and tiny SaaS utilities
+- 🌱 Learning: advanced TypeScript patterns, backend scaling, and better DX for mobile
+- ⚡ Fun shorthand: fewer meetings, more code, tasteful commit messages
 
 ---
 
-## 📌 Highlight Projects (Coming Soon on GitHub)
-- **SMM Panel Mobile App** – Fullstack React Native app accepting crypto
-- **Storova Templates** – E-commerce site template hub with easy deployment
+## 🛠️ Core skills
+- TypeScript / JavaScript (Next.js, React Native, React)
+- MongoDB
+- Supabase
+- Docker
+- Solo dev workflows: design → prototype → ship
 
 ---
 
-## 🧠 My Philosophy
+## ⭐ Featured projects
+- [SaaS-Starter](https://github.com/Fatuousnerd/SaaS-Starter) — Opinionated starter for launching a small paid web app.
+- [Nextjs-Starter](https://github.com/Fatuousnerd/Nextjs-Starter) — Minimal Next.js boilerplate with auth, styling, and testing.
+- [React-Native-Starter](https://github.com/Fatuousnerd/React-Native-Starter) — Mobile starter setup: navigation, state, and CI configured.
 
-I believe in:
-- Mastery over mediocrity
-- Learning by building
-- Clean, understandable, scalable code
-- Islam as a compass in both personal and professional life
-
-> ❝ Consternation isn't goaded by thew, rather by irrefutabality.❞
+(If you want different descriptions or links changed, drop them below and I’ll update.)
 
 ---
 
-## 📫 Reach Out
+## 📫 Contact
+I included the channels you asked for below — please paste the exact handles/URLs and I’ll replace these placeholders with live links.
 
-I'm open to collaboration, freelance opportunities, or just connecting with fellow devs.
-
-- 💬 WhatsApp: +254 745 610 061
-- 📱 Instagram: @fatuousnerd
-- 📩 Email: calvinkmwaura@gmail.com
+- Email: your.email@example.com
+- Twitter: @your_twitter
+- Instagram: @your_instagram
+- Website: https://your-website.example
 
 ---
 
-<p align="center">
-  <em>Built with ❤️, React, and Tawakkul.</em><br/>
-  <strong>© 2025 | Fatuous Nerd</strong>
-</p>
+## 🧑‍💻 How I work
+- Small, focused sprints. Prototype first, polish later.
+- Tests where they matter. Logs where they save hours.
+- I prefer clear READMEs, reproducible development setups, and pragmatic abstractions.
+
+---
+
+## 📈 GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatuousnerd&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatuousnerd&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Open to
+Collaborating on interesting starter projects, small freelance gigs, or mentoring fellow junior devs. Tell me what you need and we’ll see if caffeine + TypeScript can help.
+
+---
+
+## 🧩 A personal note
+Fun fact: I was diagnosed with AuDHD as a teen/young adult — it comes with fierce hyperfocus, lots of creative detours, and a pleasant obsession with getting the UX just right.
+
+---
+
+## 📜 License
+This profile README is available under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — use it, remix it, make it yours.
+
+---
+
+Thanks for reading — if any of this looks off or you want the tone turned up/down (nerdier, funnier, or more formal), tell me which bits to tweak and I’ll update the file.
