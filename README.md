@@ -1,5 +1,10 @@
 # Hi — I'm Fatuous Nerd 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/Fatuousnerd?label=Follow&style=social)](https://github.com/Fatuousnerd)
+[![Visitors](https://komarev.com/ghpvc/?username=Fatuousnerd&color=blue)](https://github.com/Fatuousnerd)
+
+---
+
 ```javascript
 const fatuousnerd: FatuousNerd = {
   about: {
