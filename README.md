@@ -4,7 +4,7 @@
 const fatuousnerd: FatuousNerd = {
   about: {
       name: "Mwaura Calvin",
-      pseudoname: "Fatuous Nerd"
+      pseudoname: "Fatuous Nerd",
       age: "19",
       nationality: "Kenyan/Tanzanian",
       pronouns: "he" | "him",
