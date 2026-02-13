@@ -55,7 +55,7 @@ const fatuousnerd: FatuousNerd = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Nextjs)
+![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Hono](https://img.shields.io/badge/-Hono-000?&logo=Hono)
 ![Bun](https://img.shields.io/badge/-Bun-000?&logo=Bun)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -64,6 +64,10 @@ const fatuousnerd: FatuousNerd = {
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-000?&logo=TailwindCss)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### IDEs
+![Antigravity](https://img.shields.io/badge/-Antigravity-000?&logo=Antigravity)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=VSCode)
 
 ---
 
