@@ -3,15 +3,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/Fatuousnerd?label=Follow&style=social)](https://github.com/Fatuousnerd)
 [![Visitors](https://komarev.com/ghpvc/?username=Fatuousnerd&color=blue)](https://github.com/Fatuousnerd)
 
-[![](https://img.shields.io/badge/-fatuousnerd-000?&logo=Instagram)](https://instagram.com/fatuousnerd)
 [![](https://img.shields.io/badge/-fatu0usnerd-000?&logo=X)](https://x.com/fatu0usnerd)
+[![](https://img.shields.io/badge/-fatuousnerd-000?&logo=Instagram)](https://instagram.com/fatuousnerd)
 
 ---
 
 ```javascript
 const fatuousnerd: FatuousNerd = {
   about: {
-      name: "Mwaura Calvin",
+      name: "Mwaura Calvin K.",
       pseudoname: "Fatuous Nerd",
       age: "19",
       nationality: "Kenyan/Tanzanian",
@@ -52,7 +52,6 @@ const fatuousnerd: FatuousNerd = {
       },
   },
   currentGoal: "To build and scale my SaaS companies to a collective of $12K ARR",
-  funFact: "Late diagnosed Neuro-Divergent(AuDHD)"
 }
 ```
 
@@ -64,7 +63,6 @@ const fatuousnerd: FatuousNerd = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Bun](https://img.shields.io/badge/-Bun-000?&logo=Bun)
 ![Hono](https://img.shields.io/badge/-Hono-000?&logo=Hono)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
@@ -73,9 +71,12 @@ const fatuousnerd: FatuousNerd = {
 ![git](https://img.shields.io/badge/-git-000?&logo=git)
 ![postgreSQL](https://img.shields.io/badge/-postgreSQL-000?&logo=postgreSQL)
 
-
 ### Tools & Technologies
 
+![Bun](https://img.shields.io/badge/-Bun-000?&logo=Bun)
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+![express](https://img.shields.io/badge/-express-000?&logo=express)
+![axios](https://img.shields.io/badge/-axios-000?&logo=axios)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-000?&logo=TailwindCss)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
@@ -89,6 +90,7 @@ const fatuousnerd: FatuousNerd = {
 ![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
 ![ProductHunt](https://img.shields.io/badge/-ProductHunt-000?&logo=ProductHunt)
 ![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n)
+![zustand](https://img.shields.io/badge/-zustand-000?&logo=zustand)
 
 ### IDEs
 
