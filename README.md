@@ -9,50 +9,61 @@
 ---
 
 ```javascript
-const fatuousnerd: FatuousNerd = {
+const fatuousnerd = {
   about: {
-      name: "Mwaura Calvin K.",
-      pseudoname: "Fatuous Nerd",
-      age: "19",
-      nationality: "Kenyan/Tanzanian",
-      pronouns: "he" | "him",
+    name: "Mwaura Calvin K.",
+    pseudoname: "Fatuous Nerd",
+    age: "19",
+    nationality: "Kenyan/Tanzanian",
+    pronouns: "he | him",
   },
-  socials:{
+  socials: {
     instagram: "@fatuousnerd",
     twitter_X: "@fatu0usnerd",
   },
   quotesIUse: "You Only Die Once(YODO). AMOR FATI",
-  whatIUse: {
-      frontend: {
-          frameworks: ["Reactjs", "Nextjs"],
-          styling:["TailwindCss", "Sass", "CSS"],
-          uiLibraries: [
-            "Material UI",
-            "Shadcn/ui",
-          ],
-      },
-
-      backend: {
-          frameworks: ["Nodejs", "Hono"],
-          tools: ["Bun", "Express"],
-      },
-
-      mobile: {
-        frameworks: ["React Native"],
-        styling: ["NativeWind"],
-        uiLibraries: ["React Native Reusables"],
-      },
-
-      devOps: {
-        tools: ["Docker"],
-      },
-
-      db_Memory: {
-        tools: ["Supabase", "MongoDB", "Redis"],
-      },
+  saaS: {
+    Polynia: {
+      Chat: "LLM Council. One prompt, every major AI model, side-by-side.",
+      Studio: "Access all major Image & Video AI model, all under one platform",
+      Speech: "Access all major Speech AI model, all under one platform",
+      Gateway:
+        "LLM Gateway, giving you access to 200+ AI models & tools from all popular providers.",
+      Search: "Web Search API",
+    },
+    GitLinks: "Linktree alternative for devs/techies",
+    Interllora: "AI Customer Support bot deployable in all social platforms",
   },
-  currentGoal: "To build and scale my SaaS companies to a collective of $12K ARR",
-}
+  whatIUse: {
+    frontend: {
+      frameworks: ["Reactjs", "Nextjs"],
+      styling: ["TailwindCss", "Sass", "CSS"],
+      uiLibraries: ["Material UI", "Shadcn/ui"],
+    },
+
+    backend: {
+      frameworks: ["Nodejs", "Hono"],
+      tools: ["Bun", "Express"],
+    },
+
+    mobile: {
+      frameworks: ["React Native"],
+      styling: ["NativeWind"],
+      uiLibraries: ["React Native Reusables"],
+    },
+
+    devOps: {
+      tools: ["Docker"],
+    },
+
+    db_Memory: {
+      tools: ["Supabase", "MongoDB", "Redis"],
+    },
+  },
+  currentGoal:
+    "To build and scale my SaaS companies to a collective of $12K ARR",
+};
+
 ```
 
 ---
@@ -113,8 +124,7 @@ const fatuousnerd: FatuousNerd = {
 ---
 
 ### Open Source Projects
-
-> Stack: TypeScript, Nextjs, Hono, Supabase/PostgreSQL, Shadcn (Not Limited to)
+>Stack: TypeScript, Nextjs, Hono, Supabase/PostgreSQL, Shadcn (Not Limited to)
 
 [![](https://img.shields.io/badge/-🔃%20Konvata%3a%20FREE%20File%20Converter-000)](https://github.com/Fatuousnerd/Konvata)
 [![](https://img.shields.io/badge/-📃%20Dokiu%3a%20Online%20Forms%28Google%20Forms%2c%20TypeForm%29-000)](https://github.com/Fatuousnerd/Dokiu)
