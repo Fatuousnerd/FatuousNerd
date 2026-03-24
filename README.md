@@ -88,9 +88,9 @@ const fatuousnerd: FatuousNerd = {
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
+![Railway](https://img.shields.io/badge/-Railway-000?&logo=Railway)
 ![ProductHunt](https://img.shields.io/badge/-ProductHunt-000?&logo=ProductHunt)
 ![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n)
-![zustand](https://img.shields.io/badge/-zustand-000?&logo=zustand)
 
 ### IDEs
 
@@ -105,7 +105,7 @@ const fatuousnerd: FatuousNerd = {
 
 ---
 
-### Coming Soon SaaS Products
+### Launching Soon SaaS Products
 
 [![](https://img.shields.io/badge/-💭%20Interllora-000)](https://interllora.framer.website)
 [![](https://img.shields.io/badge/-🔗%20GitLinks-000)](https://git-links.vercel.app)
@@ -114,4 +114,23 @@ const fatuousnerd: FatuousNerd = {
 
 ### Open Source Projects
 
-[![](https://img.shields.io/badge/-🔜%20Coming%20Soon-000)](https://github.com/Fatuousnerd)
+> Stack: TypeScript, Nextjs, Hono, Supabase/PostgreSQL, Shadcn (Not Limited to)
+
+[![](https://img.shields.io/badge/-🔃%20Konvata%3a%20FREE%20File%20Converter-000)](https://github.com/Fatuousnerd/Konvata)
+[![](https://img.shields.io/badge/-📃%20Dokiu%3a%20Online%20Forms%28Google%20Forms%2c%20TypeForm%29-000)](https://github.com/Fatuousnerd/Dokiu)
+[![](https://img.shields.io/badge/-📹%20MitMe%3a%20Video%20Call%20Platform%28Google%20Meet%2c%20Zoom%29-000)](https://github.com/Fatuousnerd/MitMe)
+[![](https://img.shields.io/badge/-💾%20Stakbox%3a%20Cloud%20Storage%28Google%20Drive%2c%20Dropbox%29-000)](https://github.com/Fatuousnerd/Stakbox)
+
+---
+
+## GitHub Progress
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatuousnerd&show_icons=true&count_private=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Fatuousnerd&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatuousnerd&layout=donut-vertical)](https://github.com/Fatuousnerd/github-readme-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fatuousnerd&bg_color=0d1117&color=00F7FF&line=5b00ff&point=00F7FF&area=true&hide_border=true)
+
+---
