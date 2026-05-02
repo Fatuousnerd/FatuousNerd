@@ -21,18 +21,20 @@ const fatuousnerd = {
     instagram: "@fatuousnerd",
     twitter_X: "@fatu0usnerd",
   },
-  quotesIUse: "You Only Die Once(YODO). AMOR FATI",
+  quotesIUse: [
+    "You Only Die Once(YODO)",
+    "AMOR FATI",
+    "Explore, Create, Expand, Conquer.",
+  ],
   saaS: {
     Polynia: {
       Chat: "LLM Council. One prompt, every major AI model, side-by-side.",
       Studio: "Access all major Image & Video AI model, all under one platform",
-      Speech: "Access all major Speech AI model, all under one platform",
       Gateway:
         "LLM Gateway, giving you access to 200+ AI models & tools from all popular providers.",
-      Search: "Web Search API",
     },
-    GitLinks: "Linktree alternative for devs/techies",
-    Interllora: "AI Customer Support bot deployable in all social platforms",
+    GitLinks: "Linktree alternative for devs/techies.",
+    Interllora: "AI Customer Support bot deployable in all social platforms.",
   },
   whatIUse: {
     frontend: {
@@ -61,9 +63,8 @@ const fatuousnerd = {
     },
   },
   currentGoal:
-    "To build and scale my SaaS companies to a collective of $12K ARR",
+    "To build and scale my SaaS products to a collective of $12K ARR",
 };
-
 ```
 
 ---
@@ -124,7 +125,8 @@ const fatuousnerd = {
 ---
 
 ### Open Source Projects
->Stack: TypeScript, Nextjs, Hono, Supabase/PostgreSQL, Shadcn (Not Limited to)
+
+> Stack: TypeScript, Nextjs, Hono, Supabase/PostgreSQL, Shadcn (Not Limited to)
 
 [![](https://img.shields.io/badge/-🔃%20Konvata%3a%20FREE%20File%20Converter-000)](https://github.com/Fatuousnerd/Konvata)
 [![](https://img.shields.io/badge/-📃%20Dokiu%3a%20Online%20Forms%28Google%20Forms%2c%20TypeForm%29-000)](https://github.com/Fatuousnerd/Dokiu)
