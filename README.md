@@ -13,7 +13,7 @@ const fatuousnerd = {
   about: {
     name: "Mwaura Calvin K.",
     pseudoname: "Fatuous Nerd",
-    age: "19",
+    age: "20",
     nationality: "Kenyan/Tanzanian",
     pronouns: "he | him",
   },
@@ -81,7 +81,10 @@ const fatuousnerd = {
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![html5](https://img.shields.io/badge/-html5-000?&logo=html5)
 ![git](https://img.shields.io/badge/-git-000?&logo=git)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![postgreSQL](https://img.shields.io/badge/-postgreSQL-000?&logo=postgreSQL)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![BubbleTea](https://img.shields.io/badge/-BubbleTea-000?&logo=Go)
 
 ### Tools & Technologies
 
