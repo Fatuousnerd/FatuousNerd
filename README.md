@@ -106,6 +106,7 @@ const fatuousnerd = {
 ![Railway](https://img.shields.io/badge/-Railway-000?&logo=Railway)
 ![ProductHunt](https://img.shields.io/badge/-ProductHunt-000?&logo=ProductHunt)
 ![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n)
+![Zod](https://img.shields.io/badge/-Zod-000?&logo=Zod)
 
 ### IDEs
 
