@@ -1,10 +1,9 @@
+
 # Hi — I'm Fatuous Nerd 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Fatuousnerd?label=Follow&style=social)](https://github.com/Fatuousnerd)
-[![Visitors](https://komarev.com/ghpvc/?username=Fatuousnerd&color=blue)](https://github.com/Fatuousnerd)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/fatuousnerd.svg?variant=secondary&size=sm)](https://github.com/fatuousnerd?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/fatuousnerd.svg?variant=secondary&size=sm)](https://github.com/fatuousnerd?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-37-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/fatuousnerd?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Kenya-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
-[![](https://img.shields.io/badge/-fatu0usnerd-000?&logo=X)](https://x.com/fatu0usnerd)
-[![](https://img.shields.io/badge/-fatuousnerd-000?&logo=Instagram)](https://instagram.com/fatuousnerd)
+[![X Follow](https://www.shieldcn.dev/x/follow/fatu0usnerd.svg?variant=branded&size=sm)](https://x.com/fatu0usnerd) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/fatuousnerd)
 
 ---
 
@@ -70,43 +69,43 @@ const fatuousnerd = {
 ---
 
 ### Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Hono](https://img.shields.io/badge/-Hono-000?&logo=Hono)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-![html5](https://img.shields.io/badge/-html5-000?&logo=html5)
-![git](https://img.shields.io/badge/-git-000?&logo=git)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![postgreSQL](https://img.shields.io/badge/-postgreSQL-000?&logo=postgreSQL)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![BubbleTea](https://img.shields.io/badge/-BubbleTea-000?&logo=Go)
+![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=fff&variant=branded&size=xs)
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=xs)
+![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded&size=xs)
+![Next.js](https://shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=fff&variant=branded&size=xs)
+![Hono](https://shieldcn.dev/badge/Hono-E36002.svg?logo=hono&logoColor=fff&variant=branded&size=xs)
+![Node.js](https://shieldcn.dev/badge/Node.js-336633.svg?logo=nodedotjs&logoColor=fff&variant=branded&size=xs)
+![Electron](https://shieldcn.dev/badge/Electron-0881D1.svg?logo=electron&logoColor=fff&variant=branded&size=xs)
+![Sass](https://shieldcn.dev/badge/Sass-CF649A.svg?logo=sass&logoColor=fff&variant=branded&size=xs)
+![HTML5](https://shieldcn.dev/badge/HTML5-E34C26.svg?logo=html5&logoColor=fff&variant=branded&size=xs)
+![CSS3](https://shieldcn.dev/badge/CSS3-1572B6.svg?logo=css&logoColor=fff&variant=branded&size=xs)
+![SQLite](https://shieldcn.dev/badge/SQLite-003B57.svg?logo=sqlite&logoColor=fff&variant=branded&size=xs)
+![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded&size=xs)
+![Go](https://shieldcn.dev/badge/Go-00ADD8.svg?logo=go&logoColor=fff&variant=branded&size=xs)
 
 ### Tools & Technologies
 
-![Bun](https://img.shields.io/badge/-Bun-000?&logo=Bun)
-![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![express](https://img.shields.io/badge/-express-000?&logo=express)
-![axios](https://img.shields.io/badge/-axios-000?&logo=axios)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-000?&logo=TailwindCss)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![express](https://img.shields.io/badge/-express-000?&logo=express)
-![vite](https://img.shields.io/badge/-vite-000?&logo=vite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
-![Railway](https://img.shields.io/badge/-Railway-000?&logo=Railway)
-![ProductHunt](https://img.shields.io/badge/-ProductHunt-000?&logo=ProductHunt)
-![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n)
-![Zod](https://img.shields.io/badge/-Zod-000?&logo=Zod)
+![Vite](https://www.shieldcn.dev/badge/-Vite-3178C6.svg?logo=vite&variant=branded&size=xs)
+![Git](https://shieldcn.dev/badge/Git-F1502F.svg?logo=git&logoColor=fff&variant=branded&size=xs)
+![Bun](https://shieldcn.dev/badge/Bun-FBF0DF.svg?logo=bun&logoColor=CF649A&variant=branded&size=xs)
+![npm](https://shieldcn.dev/badge/npm-CB3837.svg?logo=npm&logoColor=fff&variant=branded&size=xs)
+![Express](https://shieldcn.dev/badge/Express-000000.svg?logo=Express&logoColor=fff&variant=branded&size=xs)
+![Axios](https://shieldcn.dev/badge/Axios-5A29E6.svg?logo=Axios&logoColor=fff&variant=branded&size=xs)
+![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=fff&variant=branded&size=xs)
+![Tailwind CSS](https://shieldcn.dev/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff&variant=branded&size=xs)
+![Redis](https://shieldcn.dev/badge/Redis-FF4438.svg?logo=redis&logoColor=fff&variant=branded&size=xs)
+![MongoDB](https://shieldcn.dev/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=fff&variant=branded&size=xs)
+![Supabase](https://shieldcn.dev/badge/Supabase-3FCF8E.svg?logo=supabase&logoColor=000&variant=branded&size=xs)
+![Vercel](https://shieldcn.dev/badge/Vercel-000000.svg?logo=vercel&logoColor=fff&variant=branded&size=xs)
+![AI-SDK](https://shieldcn.dev/badge/AI%20SDK-000000.svg?logo=vercel&logoColor=fff&variant=branded&size=xs)
+![Netlify](https://shieldcn.dev/badge/Netlify-00C7B7.svg?logo=Netlify&logoColor=fff&variant=branded&size=xs)
+![Render](https://shieldcn.dev/badge/Render-000000.svg?logo=Render&logoColor=fff&variant=branded&size=xs)
+![Railway](https://shieldcn.dev/badge/Railway-0B0D0E.svg?logo=Railway&logoColor=fff&variant=branded&size=xs)
+![n8n](https://shieldcn.dev/badge/n8n-EA4B71.svg?logo=n8n&logoColor=fff&variant=branded&size=xs)
+![Zod](https://shieldcn.dev/badge/Zod-2D7DFF.svg?logo=Zod&logoColor=fff&variant=branded&size=xs)
+![Discord](https://shieldcn.dev/badge/Discord-5865F2.svg?logo=Discord&logoColor=fff&variant=branded&size=xs)
+![Stripe](https://shieldcn.dev/badge/Stripe-635BFF.svg?logo=stripe&logoColor=fff&variant=branded&size=xs)
+![ESLint](https://shieldcn.dev/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=fff&variant=branded&size=xs)
 
 ### IDEs
 
