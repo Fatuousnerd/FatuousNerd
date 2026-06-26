@@ -1,9 +1,8 @@
-
 # Hi — I'm Fatuous Nerd 👋
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/fatuousnerd.svg?variant=secondary&size=sm)](https://github.com/fatuousnerd?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/fatuousnerd.svg?variant=secondary&size=sm)](https://github.com/fatuousnerd?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-37-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/fatuousnerd?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Kenya-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/fatuousnerd.svg?variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/fatuousnerd.svg?variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-37-2563eb.svg?logo=github&variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Kenya-6366f1.svg?logo=googlemaps&variant=ghost&size=xs)
 
-[![X Follow](https://www.shieldcn.dev/x/follow/fatu0usnerd.svg?variant=branded&size=sm)](https://x.com/fatu0usnerd) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/fatuousnerd)
+[![X Follow](https://www.shieldcn.dev/x/follow/fatu0usnerd.svg?variant=branded&size=xs)](https://x.com/fatu0usnerd) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=xs)](https://instagram.com/fatuousnerd)
 
 ---
 
@@ -24,6 +23,7 @@ const fatuousnerd = {
     "You Only Die Once(YODO)",
     "AMOR FATI",
     "Explore, Create, Expand, Conquer.",
+    "Κύριε ελέησον",
   ],
   saaS: {
     Polynia: {
@@ -69,6 +69,7 @@ const fatuousnerd = {
 ---
 
 ### Languages & Frameworks
+
 ![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=fff&variant=branded&size=xs)
 ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=xs)
 ![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded&size=xs)
@@ -82,9 +83,11 @@ const fatuousnerd = {
 ![SQLite](https://shieldcn.dev/badge/SQLite-003B57.svg?logo=sqlite&logoColor=fff&variant=branded&size=xs)
 ![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded&size=xs)
 ![Go](https://shieldcn.dev/badge/Go-00ADD8.svg?logo=go&logoColor=fff&variant=branded&size=xs)
+![Rust](https://shieldcn.dev/badge/Rust-E64B11.svg?logo=rust&logoColor=fff&variant=branded&size=xs)
 
 ### Tools & Technologies
 
+![Cargo](https://shieldcn.dev/badge/Cargo-E64B11.svg?logo=rust&logoColor=fff&variant=branded&size=xs)
 ![Vite](https://www.shieldcn.dev/badge/-Vite-3178C6.svg?logo=vite&variant=branded&size=xs)
 ![Git](https://shieldcn.dev/badge/Git-F1502F.svg?logo=git&logoColor=fff&variant=branded&size=xs)
 ![Bun](https://shieldcn.dev/badge/Bun-FBF0DF.svg?logo=bun&logoColor=CF649A&variant=branded&size=xs)
@@ -106,46 +109,5 @@ const fatuousnerd = {
 ![Discord](https://shieldcn.dev/badge/Discord-5865F2.svg?logo=Discord&logoColor=fff&variant=branded&size=xs)
 ![Stripe](https://shieldcn.dev/badge/Stripe-635BFF.svg?logo=stripe&logoColor=fff&variant=branded&size=xs)
 ![ESLint](https://shieldcn.dev/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=fff&variant=branded&size=xs)
-
-### IDEs
-
-![Antigravity](https://img.shields.io/badge/-Antigravity-000?&logo=Antigravity)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=vscode)
-
----
-
-### Launched SaaS Products
-
-[![](https://img.shields.io/badge/-🧠%20Polynia%20AI-000)](https://polynia.vercel.app)
-
----
-
-### Launching Soon SaaS Products
-
-[![](https://img.shields.io/badge/-💭%20Interllora-000)](https://interllora.framer.website)
-[![](https://img.shields.io/badge/-🔗%20GitLinks-000)](https://git-links.vercel.app)
-
----
-
-### Open Source Projects
-
-> Stack: TypeScript, Nextjs, Hono, Supabase/PostgreSQL, Shadcn (Not Limited to)
-
-[![](https://img.shields.io/badge/-🔃%20Konvata%3a%20FREE%20File%20Converter-000)](https://github.com/Fatuousnerd/Konvata)
-[![](https://img.shields.io/badge/-📃%20Dokiu%3a%20Online%20Forms%28Google%20Forms%2c%20TypeForm%29-000)](https://github.com/Fatuousnerd/Dokiu)
-[![](https://img.shields.io/badge/-📹%20MitMe%3a%20Video%20Call%20Platform%28Google%20Meet%2c%20Zoom%29-000)](https://github.com/Fatuousnerd/MitMe)
-[![](https://img.shields.io/badge/-💾%20Stakbox%3a%20Cloud%20Storage%28Google%20Drive%2c%20Dropbox%29-000)](https://github.com/Fatuousnerd/Stakbox)
-
----
-
-## GitHub Progress
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatuousnerd&show_icons=true&count_private=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fatuousnerd&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatuousnerd&layout=donut-vertical)](https://github.com/Fatuousnerd/github-readme-stats)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fatuousnerd&bg_color=0d1117&color=00F7FF&line=5b00ff&point=00F7FF&area=true&hide_border=true)
 
 ---
