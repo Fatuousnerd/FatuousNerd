@@ -1,6 +1,6 @@
-# Hi — I'm Fatuous Nerd 👋
+# 歡迎
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/fatuousnerd.svg?variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/fatuousnerd.svg?variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-37-2563eb.svg?logo=github&variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Kenya-6366f1.svg?logo=googlemaps&variant=ghost&size=xs)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/fatuousnerd.svg?variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/fatuousnerd.svg?variant=secondary&size=xs)](https://github.com/fatuousnerd?tab=repositories)
 
 [![X Follow](https://www.shieldcn.dev/x/follow/fatu0usnerd.svg?variant=branded&size=xs)](https://x.com/fatu0usnerd) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=xs)](https://instagram.com/fatuousnerd)
 
@@ -15,54 +15,12 @@ const fatuousnerd = {
     nationality: "Kenyan/Tanzanian",
     pronouns: "he | him",
   },
-  socials: {
-    instagram: "@fatuousnerd",
-    twitter_X: "@fatu0usnerd",
-  },
-  quotesIUse: [
+  quotes: [
     "You Only Die Once(YODO)",
     "AMOR FATI",
     "Explore, Create, Expand, Conquer.",
     "Κύριε ελέησον",
-  ],
-  saaS: {
-    Polynia: {
-      Chat: "LLM Council. One prompt, every major AI model, side-by-side.",
-      Studio: "Access all major Image & Video AI model, all under one platform",
-      Gateway:
-        "LLM Gateway, giving you access to 200+ AI models & tools from all popular providers.",
-    },
-    GitLinks: "Linktree alternative for devs/techies.",
-    Interllora: "AI Customer Support bot deployable in all social platforms.",
-  },
-  whatIUse: {
-    frontend: {
-      frameworks: ["Reactjs", "Nextjs"],
-      styling: ["TailwindCss", "Sass", "CSS"],
-      uiLibraries: ["Material UI", "Shadcn/ui"],
-    },
-
-    backend: {
-      frameworks: ["Nodejs", "Hono"],
-      tools: ["Bun", "Express"],
-    },
-
-    mobile: {
-      frameworks: ["React Native"],
-      styling: ["NativeWind"],
-      uiLibraries: ["React Native Reusables"],
-    },
-
-    devOps: {
-      tools: ["Docker"],
-    },
-
-    db_Memory: {
-      tools: ["Supabase", "MongoDB", "Redis"],
-    },
-  },
-  currentGoal:
-    "To build and scale my SaaS products to a collective of $12K ARR",
+  ]
 };
 ```
 
