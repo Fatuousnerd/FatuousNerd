@@ -20,13 +20,13 @@ const fatuousnerd = {
     "AMOR FATI",
     "Explore, Create, Expand, Conquer.",
     "Κύριε ελέησον",
-  ]
+  ],
 };
 ```
 
 ---
 
-### Languages & Frameworks
+## Languages & Frameworks
 
 ![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=fff&variant=branded&size=xs)
 ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=xs)
@@ -67,5 +67,6 @@ const fatuousnerd = {
 ![Discord](https://shieldcn.dev/badge/Discord-5865F2.svg?logo=Discord&logoColor=fff&variant=branded&size=xs)
 ![Stripe](https://shieldcn.dev/badge/Stripe-635BFF.svg?logo=stripe&logoColor=fff&variant=branded&size=xs)
 ![ESLint](https://shieldcn.dev/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=fff&variant=branded&size=xs)
+![Biome](https://shieldcn.dev/badge/Biome-2D7DFF.svg?logo=biome&logoColor=fff&variant=branded&size=xs)
 
 ---
